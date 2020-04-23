@@ -1,0 +1,18 @@
+CLI for finding roomate
+- Sort by price
+- Sort by location
+- Sort by date
+- show listings
+- update listings
+
+2. Scrape Roomates from Craigslist
+
+3. Persist in database so it's fast.
+
+Get data 
+
+instantiate a roomate with the data
+
+save the data
+
+query via sql
